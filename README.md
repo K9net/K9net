@@ -1,16 +1,13 @@
-### Hi there 👋
+# Software engineer
 
-<!--
-**K9net/K9net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages and Tools
 
-Here are some ideas to get you started:
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+![spring](https://img.shields.io/badge/-Spring-000?style=for-the-badge&logo=spring)
+![python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![javascript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![postgresql](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacts
+
+[![Telegram](https://img.shields.io/badge/-telegram-000?style=for-the-badge&logo=telegram) ](https://t.me/vorobyssshek)
